@@ -33,6 +33,7 @@ $ pip install requests
 $ pip install futures
 $ git clone https://github.com/FLAME-XD/Prem_File
 $ cd Prem_File
+$ git pull
 $ python PremiumV3.py
 
  
