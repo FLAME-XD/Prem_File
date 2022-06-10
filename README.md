@@ -2,6 +2,8 @@
 # Crack Brute [FLAME-V3]
  
 Tidak Menggunakan Login Token/Cookie
+cd Prem_File
+Ketik "git pull" Selalu Update
 
 #  Cracking Metode
 
